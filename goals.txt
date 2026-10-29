@@ -1,0 +1,5 @@
+My Github learning Goals
+
+1. Learn how to create repositories 
+2. Understand how commits work
+3. Learn how to collaborate with others
